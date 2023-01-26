@@ -1,0 +1,28 @@
+body{
+    font-size: 22px;
+    background-image: url(Background2.png);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    font-family: 'coolvetica',sans-serif;
+}
+.heading{
+    width: 80%;
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+}
+p{
+    color: aqua;
+    font-weight: 700;
+}
+label{
+    color: greenyellow;
+}
+b{
+    color:lightyellow;
+}
+@font-face {
+    font-family: 'coolvetica';
+    src: url(coolvetica\ rg.otf);
+}
